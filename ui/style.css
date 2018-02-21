@@ -6,6 +6,10 @@ pb{
     font-family:Arial;
 }
 
+h1 {
+    background-color: #80ced6;
+}
+
 body {
     background-color: lightgrey;
     margin-top: 95px;
